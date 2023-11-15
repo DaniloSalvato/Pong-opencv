@@ -1,8 +1,8 @@
 ### Pong-opencv
 
-#To play you need this libs,
+To play you need this libs:
 
-#pip install opencv-python
-#pip install cvzone
-#pip install mediapipe
+- pip install opencv-python </br>
+- pip install cvzone</br>
+- pip install mediapipe</br>
 
